@@ -1,0 +1,110 @@
+html {
+    height: 100%;
+  }
+body {
+    background-color: #071014;
+    background: linear-gradient(#30142b, #a12727);
+    font-family: 'Arial', sans-serif;
+    /* height: 100vh; */
+  }
+  .login-box {
+      margin-top: 4px;
+      background: #2a0d15;
+      text-align: center;
+      box-shadow: 0 15px 25px rgba(0,0,0,.6);
+      border-radius: 15px;
+  }
+  .login-title {
+      text-align: center;
+      font-size: 35px;
+      letter-spacing: 2px;
+      margin-top: 35px;
+      font-weight: bold;
+      color: #ffffff;
+  }
+  .login-form {
+      margin-top: 25px;
+      text-align: left;
+  }
+  input[type=text] {
+      background-color: #2a0d15;
+      border: none;
+      border-bottom: 2px solid#ffffff;
+      border-top: 0px;
+      border-radius: 0px;
+      outline: 0;
+      margin-bottom: 20px;
+      padding-left: 0px;
+      color: #ECF0F5;
+  }
+  input[type=email] {
+    background-color: #2a0d15;
+    border: none;
+    border-bottom: 2px solid#ffffff;
+    border-top: 0px;
+    border-radius: 0px;
+    outline: 0;
+    margin-bottom: 20px;
+    padding-left: 0px;
+    color: #ECF0F5;
+}
+  input[type=password] {
+      background-color: #2a0d15;
+      border: none;
+      border-bottom: 2px solid #ffffff;
+      border-radius: 0px;
+      outline: 0;
+      margin-bottom: 20px;
+      padding-left: 0px;
+      color: #ECF0F5;
+  }
+  input[type=text]:focus,
+  input[type=email]:focus,
+  input[type=password]:focus {
+      border-bottom: 2px solid #f49803;
+  }
+  .form-group {
+    margin: 20px;
+  }
+  .form-control:focus {
+      box-shadow: none;
+      background-color:#2a0d15;
+      color: #ECF0F5;
+  }
+  .form-control-label {
+      font-size: 15px;
+      color: #ECF0F5;
+      letter-spacing: 1px;
+  }
+  .btn-outline-primary{
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 0;
+    color: #fff;
+    background-color:#f49803;
+    margin-top: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    overflow: hidden;
+    transition: .5s;
+    position: relative;
+    display: inline-block;
+    letter-spacing: 4px
+  }
+  .btn-outline-primary:hover{
+    background-color:rgba(218, 105, 7, 0.97)!important;
+    color: #fff;
+  }
+  .login-button {
+      padding-right: 0px;
+      text-align: right;
+      margin-bottom: 25px;
+  }
+  .login-text {
+      padding-left: 0px;
+      color: #A2A4A4;
+  }
+  
+  

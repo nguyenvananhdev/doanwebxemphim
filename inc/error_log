@@ -1,0 +1,60 @@
+[12-Apr-2019 07:20:31 America/New_York] PHP Notice:  Undefined variable: Nhan_connect in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:20:31 America/New_York] PHP Notice:  Undefined variable: row in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:20:31 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:20:31 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:20:31 America/New_York] PHP Notice:  Undefined variable: conn in /home/aniraw/anivsub.net/inc/list_phim1.php on line 29
+[12-Apr-2019 07:20:31 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 29
+[12-Apr-2019 07:20:32 America/New_York] PHP Notice:  Undefined variable: Nhan_connect in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:20:32 America/New_York] PHP Notice:  Undefined variable: row in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:20:32 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:20:32 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:20:32 America/New_York] PHP Notice:  Undefined variable: conn in /home/aniraw/anivsub.net/inc/list_phim1.php on line 29
+[12-Apr-2019 07:20:32 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 29
+[12-Apr-2019 07:20:33 America/New_York] PHP Notice:  Undefined variable: Nhan_connect in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:20:33 America/New_York] PHP Notice:  Undefined variable: row in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:20:33 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:20:33 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:20:33 America/New_York] PHP Notice:  Undefined variable: conn in /home/aniraw/anivsub.net/inc/list_phim1.php on line 29
+[12-Apr-2019 07:20:33 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 29
+[12-Apr-2019 07:20:34 America/New_York] PHP Notice:  Undefined variable: Nhan_connect in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:20:34 America/New_York] PHP Notice:  Undefined variable: row in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:20:34 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:20:34 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:20:34 America/New_York] PHP Notice:  Undefined variable: conn in /home/aniraw/anivsub.net/inc/list_phim1.php on line 29
+[12-Apr-2019 07:20:34 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 29
+[12-Apr-2019 07:21:40 America/New_York] PHP Notice:  Undefined variable: Nhan_connect in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:21:40 America/New_York] PHP Notice:  Undefined variable: row in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:21:40 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:21:40 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:21:40 America/New_York] PHP Notice:  Undefined variable: conn in /home/aniraw/anivsub.net/inc/list_phim1.php on line 29
+[12-Apr-2019 07:21:40 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 29
+[12-Apr-2019 07:21:58 America/New_York] PHP Notice:  Undefined variable: Nhan_connect in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:21:58 America/New_York] PHP Notice:  Undefined variable: row in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:21:58 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:21:58 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:21:58 America/New_York] PHP Notice:  Undefined variable: conn in /home/aniraw/anivsub.net/inc/list_phim1.php on line 29
+[12-Apr-2019 07:21:58 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 29
+[12-Apr-2019 07:22:12 America/New_York] PHP Notice:  Undefined variable: Nhan_connect in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:22:12 America/New_York] PHP Notice:  Undefined variable: row in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:22:12 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:22:12 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:22:12 America/New_York] PHP Notice:  Undefined variable: conn in /home/aniraw/anivsub.net/inc/list_phim1.php on line 29
+[12-Apr-2019 07:22:12 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 29
+[12-Apr-2019 07:30:18 America/New_York] PHP Notice:  Undefined variable: Nhan_connect in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:30:18 America/New_York] PHP Notice:  Undefined variable: row in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:30:18 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:30:18 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:30:18 America/New_York] PHP Notice:  Undefined variable: conn in /home/aniraw/anivsub.net/inc/list_phim1.php on line 29
+[12-Apr-2019 07:30:18 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 29
+[12-Apr-2019 07:30:20 America/New_York] PHP Notice:  Undefined variable: Nhan_connect in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:30:20 America/New_York] PHP Notice:  Undefined variable: row in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:30:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:30:20 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:30:20 America/New_York] PHP Notice:  Undefined variable: conn in /home/aniraw/anivsub.net/inc/list_phim1.php on line 29
+[12-Apr-2019 07:30:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 29
+[12-Apr-2019 07:30:20 America/New_York] PHP Notice:  Undefined variable: Nhan_connect in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:30:20 America/New_York] PHP Notice:  Undefined variable: row in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:30:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:30:20 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 27
+[12-Apr-2019 07:30:20 America/New_York] PHP Notice:  Undefined variable: conn in /home/aniraw/anivsub.net/inc/list_phim1.php on line 29
+[12-Apr-2019 07:30:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aniraw/anivsub.net/inc/list_phim1.php on line 29
